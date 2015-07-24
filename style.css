@@ -3,6 +3,9 @@ body{
 	color: white;
 }
 img {
-	display: inline-block;
+	display: inline;
 	border: 2px solid gray;
+}
+h2 {
+	color: #FF33CC; 
 }
